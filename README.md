@@ -1,2 +1,2 @@
-# JavaScrpt-sdet
+# JavaScript-sdet
 This is my repo.
